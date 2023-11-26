@@ -1,0 +1,27 @@
+{
+  "name": "aplicativo",
+  "version": "1.0.0",
+  "description": "projeto para manipulação dos parametros da url formulario html",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+      "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GuilhermeSakamoto/Aplicativo.git"
+  },
+  "keywords": [
+    "POST",
+    "HTTP",
+    "Validação",
+    "Servidor"
+  ],
+  "author": "Guilherme Sakamoto",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
+
